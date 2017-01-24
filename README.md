@@ -412,6 +412,8 @@ the honeyd daemon and generate configuration files
 - Honeyd stats
     - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
 
+- Apate - Your Friendly Neighbourhood Honeypot Maker and Manager (with Honeyd)
+    - [Apate](https://github.com/ytisf/apate)
 ## <a name="analysis"></a> Network and Artifact Analysis
 
 - Sandbox
